@@ -33,3 +33,10 @@ if __name__ == '__main__':
         print("The Winner is Player 1!!!!")
     else:
         print("The Winner is Player 2!!!!!")
+
+    
+    c = int(input("Press 0 for exit: "))
+    if c==0:
+        exit()
+    else:
+        pass
